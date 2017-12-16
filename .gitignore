@@ -2,6 +2,8 @@
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 
+db.mv.db
+
 ### STS ###
 .apt_generated
 .classpath
